@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vaishnavi Trikal 
-- 👀 I’m interested in Pyton Programming 
+- 👀 I’m interested in Python Programming 
 - 🌱 I’m currently learning Machine Learning Techniques 
 - 📫 Reach me @ vaishnavitrikal258@gmail.com 
 
